@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+
+    <string name="question_text">Question</string>
+
+    <string name="answer_0_button">Answer 0</string>
+    <string name="answer_1_button">Answer 1</string>
+    <string name="answer_2_button">Answer 2</string>
+    <string name="answer_3_button">Answer 3</string>
+
+    <string name="country_question">What is the biggest country in the world?</string>
+    <string name="country_answer_China">Russia</string>
+    <string name="country_answer_Russia">China</string>
+    <string name="country_answer_American">American</string>
+    <string name="country_answer_Canada">Canada</string>
+
+    <string name="capital_question">What is the capital city of spain?</string>
+    <string name="capital_answer_Madrid">Lisbon</string>
+    <string name="capital_answer_Lisbon">Madrid</string>
+    <string name="capital_answer_Barcelona">Barcelona</string>
+    <string name="capital_answer_Paris">Paris</string>
+
+    <string name="math_question">32 times 51 is equals to what number?</string>
+    <string name="math_answer_2752">2752</string>
+    <string name="math_answer_3512">3512</string>
+    <string name="math_answer_1632">1632</string>
+    <string name="math_answer_1756">1756</string>
+
+    <string name="planet_question">What is the largest planet in the Solar System?</string>
+    <string name="planet_answer_Mars">Mars</string>
+    <string name="planet_answer_Jupiter">Saturn</string>
+    <string name="planet_answer_Earth">Earth</string>
+    <string name="planet_answer_Saturn">Jupiter</string>
+
+    <string name="hint_button">Hint</string>
+    <string name="submit_button">Submit</string>
+</resources>
